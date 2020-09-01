@@ -14,8 +14,19 @@ The highlights of the application are as follows:
 
 3) Upon 'Download', the user just have to create an empty GitHub repository and execute the masterscript.sh file, and within 10 minutes, their application is live on their GitHub pages.
 
-The application(which coincides with my own portfolio): https://nachiket-trivedi.github.io
-A YouTube video dilineating the application: https://www.youtube.com/watch?v=SP6cW52_lvQ
+Tech stack:
+
+1) Frontend: React
+
+2) Backend: Node
+
+3) Deployment: Frontend on GitHub Pages, Backend on Heroku
+
+#### The application(which coincides with my own portfolio): https://nachiket-trivedi.github.io
+ 
+#### A YouTube video delineating the application: https://www.youtube.com/watch?v=SP6cW52_lvQ 
+
+
 
 ![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img1.png?raw=true)
 ![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img2.png?raw=true)
