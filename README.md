@@ -22,6 +22,10 @@ Tech stack:
 
 3) Deployment: Frontend on GitHub Pages, Backend on Heroku
 
+Future versions will include:
+1) Option for Resume upload.
+2) Making the app mobile friendly.
+
 #### The application(which coincides with my own portfolio): https://nachiket-trivedi.github.io
  
 #### A YouTube video delineating the application: https://www.youtube.com/watch?v=SP6cW52_lvQ 
