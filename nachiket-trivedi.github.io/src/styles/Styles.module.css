@@ -1,0 +1,282 @@
+.projectHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.projectCard {
+  border: 1px solid lightgrey;
+  border-radius: 15px;
+  margin: 18px 0 18px 0;
+  background-color: white;
+  word-wrap: break-word;
+}
+.projDesc {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  margin: 10px;
+}
+.navbarDiv {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+.creatorName {
+  right: 0px;
+  font-size: 7px;
+  padding: 0px;
+  margin: 0px;
+}
+.rightHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.aboutBg {
+  background-color: rgb(56, 56, 56);
+  color: white;
+  padding: 120px 100px 120px 100px;
+}
+.projectsPage {
+  background-color: rgb(252, 252, 252);
+  padding: 100px;
+}
+.projectDevParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 170px;
+}
+.projDate {
+  font-weight: 400;
+}
+.cloneBtn {
+  background-color: inherit;
+  color: inherit;
+}
+.cloneAndRepoBtnDiv {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.fullDescDiv1 {
+  color: rgb(226, 226, 226);
+  margin: 0px 60px 0px 60px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 30;
+}
+.endQuote {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.quotes {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.beginQuote {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  display: flex;
+  justify-content: flex-end;
+}
+.experiencePage {
+  background-color: white;
+  padding: 100px;
+}
+.hr {
+  width: 80%;
+  background-color: rgb(243, 243, 243);
+}
+.expMainCard {
+  width: 100%;
+  margin: 45px 30px 0px 30px;
+}
+.expHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.expDateAndPlace {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.expCompanyAndTitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.dottedLine {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-weight: 700;
+}
+.educationPage {
+  background-color: white;
+  padding: 100px;
+}
+.eduCardsParentParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.eduCardsParent {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+.eduCardDivBothSides {
+  width: 100%;
+  padding: 0px 40px 80px 40px;
+}
+.eduFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.eduDegree {
+  font-size: 18px;
+}
+.eduClg {
+  font-size: 17px;
+}
+
+.eduCardMain {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.eduHeader {
+  border-bottom: 1px solid lightgrey;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 13px;
+  justify-content: space-between;
+}
+.eduHeaderRight {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.eduFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.eduDeets {
+  font-size: 17px;
+}
+.courseBadge {
+  margin: 5px;
+  font-size: 14px;
+  padding: 8px;
+  background-color: #ff5252;
+  color: white;
+}
+.eduBackHeaderLabel {
+  padding: 20px 0 0 0;
+  width: 100%;
+  text-align: center;
+}
+.eduCardMainBack {
+  width: 100%;
+  height: 300px;
+  text-align: center;
+}
+
+.eachSkill {
+  padding: 12px;
+  margin: 10px;
+  background-color: #8bc34a;
+  color: black;
+  font-size: 18px;
+  font-weight: 450;
+}
+.skillPage {
+  background-color: rgb(252, 252, 252);
+  padding: 100px;
+  height: 1000px;
+}
+.meImg {
+  border-radius: 50%;
+}
+.aboutMeText {
+  background-color: inherit;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  outline: 0;
+  padding: 10px;
+  margin: -3px 0 -3px 0;
+  width: 100%;
+  box-shadow: none !important;
+}
+.textBoxStyle {
+  outline: none;
+  box-shadow: none !important;
+  border: 1px solid #ccc !important;
+}
+.modalFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footerBtn {
+  margin-left: 10px;
+}
+.formRow {
+  margin-bottom: 15px;
+}
+.addRemoveBtnGrp {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+.meDiv {
+  display: flex;
+  flex-direction: row;
+}
+.downloadModalBody {
+  padding: 40px 40px 20px 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(73, 73, 73);
+}
+.downloadModalFooter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.downloadModalGitUrl {
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+.downloadModalNote {
+  font-size: 10px;
+  color: grey;
+}
+.downloadModalFooterBtn {
+  margin: 50px;
+  font-size: 20px;
+}
+.smallsubtitleCreatePage {
+  font-size: 16px;
+  color: rgb(146, 146, 146);
+  padding-left: 10px;
+}
+.projCardFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
